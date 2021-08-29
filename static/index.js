@@ -1,0 +1,1 @@
+console.log("shruti is good girl")
